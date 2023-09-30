@@ -1,0 +1,15 @@
+.App{
+  display: flex;
+  flex-direction: row-reverse;
+  height: 90vh;
+  width: 70%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.Hover{
+  font-size: 80px;
+  text-decoration: underline;
+  cursor: pointer;
+}
